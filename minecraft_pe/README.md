@@ -5,8 +5,7 @@
 Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition (MCPE 1.1 and older),
 based on Spigot for Java Edition.
 
-#### NukkitX
-[Nukkit GitHub](https://github.com/Nukkit/NukkitX)  
+#### NukkitX  
 NukkitX is a Nuclear-Powered Server Software For Minecraft: Bedrock Edition (MCPE 1.2 and newer),
 based on Spigot for Java Edition.
 
